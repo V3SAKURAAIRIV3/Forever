@@ -1,10 +1,10 @@
 
-♦️ For Debian 10 Only Digital Ocean recommended<br>
+♦️ For Debian 10 Only (Digital Ocean recommended)<br>
  
   ```html
  apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
   ```
-♦️ For Ubuntu 20.04 Only Digital Ocean recommended<br>
+♦️ For Ubuntu 20.04 Only (Digital Ocean recommended)<br>
   
   ```html
  apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot
