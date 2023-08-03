@@ -4,7 +4,7 @@
   ```html
  apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
   ```
-♦️ For Ubuntu 18.04 Only <br>
+♦️ For Ubuntu 20.04 Only <br>
   
   ```html
  apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot
